@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Experiment outputs (keep during development, strip before release)
+# experiments/
+# results/
+# logs/
+
+# Checkpoints and weights
+*.pth
+*.pt
+*.ckpt
+*.pth.tar
+*.safetensors
+
+# Large data
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.h5
+*.mat
+*.npy
+*.npz
+
+# Images (uncomment if you do not want to track figures)
+# *.png
+# *.jpg
