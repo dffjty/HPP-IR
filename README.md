@@ -13,24 +13,6 @@ Official repository of the paper **HPP-IR**, accepted by **IEEE Transactions on 
 
 ---
 
-## Paper
-
-| | |
-|:---|:---|
-| **Title** | HPP-IR: Hierarchical Progressive Prompting for All-in-One Weather-Degraded Image Restoration |
-| **Journal** | IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) |
-| **Status** | Accepted, in Early Access |
-| **DOI** | [10.1109/TCSVT.2026.3716423](https://doi.org/10.1109/TCSVT.2026.3716423) |
-| **Paper** | [IEEE Xplore](https://ieeexplore.ieee.org/document/11622519) |
-
----
-
-## Abstract
-
-> [!NOTE]
-> The abstract will be added after publication.
-
----
 
 ## Citation
 
