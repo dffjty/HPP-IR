@@ -14,6 +14,14 @@ Official repository of the paper **HPP-IR**, accepted by **IEEE Transactions on 
 ---
 
 
+## Paper (PDF)
+
+> [!NOTE]
+> The **Early Access** version of this paper on IEEE Xplore contains a few minor errors.  
+> The PDF in this repository ([\](HPP-IR.pdf)) is the **corrected version** (author-accepted manuscript).
+>
+> Published version of record: [DOI: 10.1109/TCSVT.2026.3716423](https://doi.org/10.1109/TCSVT.2026.3716423)
+
 ## Citation
 
 If you find this work useful, please cite:
