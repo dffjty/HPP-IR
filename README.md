@@ -19,8 +19,6 @@ The paper has been published in *IEEE Transactions on Circuits and Systems for V
 - **IEEE Xplore:** [https://ieeexplore.ieee.org/document/11622519](https://ieeexplore.ieee.org/document/11622519)
 - **DOI:** [10.1109/TCSVT.2026.3716423](https://doi.org/10.1109/TCSVT.2026.3716423)
 
-An author-accepted manuscript ([`HPP-IR.pdf`](HPP-IR.pdf)) is also archived in this repository for convenient access.
-
 ---
 
 ## Citation
